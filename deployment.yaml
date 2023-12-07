@@ -30,5 +30,5 @@ spec:
   ports:
   - name: http
     protocol: TCP
-    port: 80/jpetstore
+    port: 80
     targetPort: 8080
