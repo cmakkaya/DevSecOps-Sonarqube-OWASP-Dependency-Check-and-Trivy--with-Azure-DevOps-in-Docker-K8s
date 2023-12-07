@@ -35,24 +35,24 @@
   <url>http://www.mybatis.org</url>
 
   <scm>
-    <url>http://github.com/mybatis/jpetstore-6</url>
-    <connection>scm:git:ssh://github.com/mybatis/jpetstore-6.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mybatis/jpetstore-6.git</developerConnection>
+    <url>https://github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP</url>
+    <connection>scm:git:ssh://github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub Issue Management</system>
-    <url>https://github.com/mybatis/jpetstore-6/issues</url>
+    <url>https://github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP/issues</url>
   </issueManagement>
   <ciManagement>
     <system>GitHub Actions</system>
-    <url>https://github.com/mybatis/jpetstore-6/actions</url>
+    <url>https://github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP/actions</url>
   </ciManagement>
   <distributionManagement>
     <site>
       <id>gh-pages</id>
       <name>Mybatis GitHub Pages</name>
-      <url>git:ssh://git@github.com/mybatis/jpetstore-6.git?gh-pages#</url>
+      <url>git:ssh://git@github.com/cmakkaya/DevSecOps-Sonarqube-OWASP-Dependency-Check-and-Trivy-for-GCP.git?gh-pages#</url>
     </site>
   </distributionManagement>
 
